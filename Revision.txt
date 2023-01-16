@@ -1,0 +1,2 @@
+DTEXT0001: Initial speedrun.
+DTEXT0002: Fix USB3.D+ ESD connection; Add I2C level shifter to 5V;

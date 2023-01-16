@@ -1,0 +1,74 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# GL850G
+#
+DEF GL850G U 0 40 Y N 1 L N
+F0 "U" -400 730 50 H V L BNN
+F1 "GL850G" -400 -900 50 H V L BNN
+F2 "SSOP28" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+T 0 -350 575 50 0 0 0 AVDD Normal 0 L B
+T 0 -350 475 50 0 0 0 DM2 Normal 0 L B
+T 0 -350 375 50 0 0 0 DP2 Normal 0 L B
+T 0 -350 275 50 0 0 0 RREF Normal 0 L B
+T 0 350 325 50 0 0 0 DM0 Normal 0 R T
+T 0 340 425 50 0 0 0 DP0 Normal 0 R T
+T 0 350 525 50 0 0 0 DM1 Normal 0 R T
+T 0 350 625 50 0 0 0 DP1\ Normal 0 R T
+T 0 -350 175 50 0 0 0 AVDD Normal 0 L B
+T 0 -350 -325 50 0 0 0 AVDD Normal 0 L B
+T 0 -350 75 50 0 0 0 X1 Normal 0 L B
+T 0 -350 -25 50 0 0 0 X2 Normal 0 L B
+T 0 350 -75 50 0 0 0 OVCUR1# Normal 0 R T
+T 0 350 25 50 0 0 0 PWREN1# Normal 0 R T
+T 0 350 125 50 0 0 0 V5 Normal 0 R T
+T 0 350 225 50 0 0 0 V33 Normal 0 R T
+T 0 -350 -125 50 0 0 0 DM3 Normal 0 L B
+T 0 -350 -225 50 0 0 0 DP3 Normal 0 L B
+T 0 -350 -425 50 0 0 0 DM4 Normal 0 L B
+T 0 -350 -525 50 0 0 0 DP4 Normal 0 L B
+T 0 350 -475 50 0 0 0 PSELF Normal 0 R T
+T 0 350 -375 50 0 0 0 PGANG Normal 0 R T
+T 0 350 -275 50 0 0 0 OVCUR2# Normal 0 R T
+T 0 350 -175 50 0 0 0 PWREN2# Normal 0 R T
+T 0 -350 -625 50 0 0 0 RESET# Normal 0 L B
+T 0 -350 -725 50 0 0 0 TEST/SCL Normal 0 L B
+T 0 350 -675 50 0 0 0 GND Normal 0 R T
+T 0 350 -575 50 0 0 0 DVDD Normal 0 R T
+S -400 -800 400 700 0 0 6 f
+X ~ 1 -500 600 100 R 40 40 0 0 B 
+X ~ 2 -500 500 100 R 40 40 0 0 B 
+X ~ 3 -500 400 100 R 40 40 0 0 B 
+X ~ 4 -500 300 100 R 40 40 0 0 B 
+X ~ 5 -500 200 100 R 40 40 0 0 B 
+X ~ 6 -500 100 100 R 40 40 0 0 B 
+X ~ 7 -500 0 100 R 40 40 0 0 B 
+X ~ 8 -500 -100 100 R 40 40 0 0 B 
+X ~ 9 -500 -200 100 R 40 40 0 0 B 
+X ~ 10 -500 -300 100 R 40 40 0 0 B 
+X ~ 11 -500 -400 100 R 40 40 0 0 B 
+X ~ 12 -500 -500 100 R 40 40 0 0 B 
+X ~ 13 -500 -600 100 R 40 40 0 0 B 
+X ~ 14 -500 -700 100 R 40 40 0 0 B 
+X ~ 15 500 -700 100 L 40 40 0 0 B 
+X ~ 16 500 -600 100 L 40 40 0 0 B 
+X ~ 17 500 -500 100 L 40 40 0 0 B 
+X ~ 18 500 -400 100 L 40 40 0 0 B 
+X ~ 19 500 -300 100 L 40 40 0 0 B 
+X ~ 20 500 -200 100 L 40 40 0 0 B 
+X ~ 21 500 -100 100 L 40 40 0 0 B 
+X ~ 22 500 0 100 L 40 40 0 0 B 
+X ~ 23 500 100 100 L 40 40 0 0 B 
+X ~ 24 500 200 100 L 40 40 0 0 B 
+X ~ 25 500 300 100 L 40 40 0 0 B 
+X ~ 26 500 400 100 L 40 40 0 0 B 
+X ~ 27 500 500 100 L 40 40 0 0 B 
+X ~ 28 500 600 100 L 40 40 0 0 B 
+ENDDRAW
+ENDDEF
+#
+# End Library
