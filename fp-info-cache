@@ -1,4 +1,4 @@
-20371857763742784
+20388609527422424
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86037,6 +86037,20 @@ varistor SIOV
 2
 2
 devterm-ext-outline
+C64-Cart-NoSilkS
+
+
+0
+47
+45
+devterm-ext-outline
+C64-Cart-Socket-Horizontal
+
+
+0
+44
+44
+devterm-ext-outline
 C64_expansion_2x22_socket
 Through hole angled pin header, 2x22, 2.54mm pitch, 6mm pin length, double rows
 Through hole angled pin header THT 2x22 2.54mm double row
@@ -86065,6 +86079,34 @@ SOIC-18
 18
 18
 devterm-ext-outline
+USB_A_PCBCUT
+https://item.taobao.com/item.htm?spm=a1z0d.7625083.1998302264.6.5c5f4e691UJBfp&id=601186911406
+USB-A receptacle horizontal through-hole shrinked board
+0
+6
+5
+devterm-ext-outline
+cart
+
+
+0
+0
+0
+devterm-ext-outline
+caution
+
+
+0
+0
+0
+devterm-ext-outline
+clockwork
+
+
+0
+0
+0
+devterm-ext-outline
 mpcie-silk-back
 
 
@@ -86072,7 +86114,35 @@ mpcie-silk-back
 0
 0
 devterm-ext-outline
+open_source_hw
+
+
+0
+0
+0
+devterm-ext-outline
+pwm
+
+
+0
+0
+0
+devterm-ext-outline
+rtc
+
+
+0
+0
+0
+devterm-ext-outline
 turbo_fan_3505
+
+
+0
+0
+0
+devterm-ext-outline
+uart
 
 
 0
