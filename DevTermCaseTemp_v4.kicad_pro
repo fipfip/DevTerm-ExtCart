@@ -55,16 +55,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "silk_over_copper|147438407|83176023|5d5bb67a-4597-4c6d-a2e3-9eb7a9eb8770|e5bf7d38-8911-46a7-9867-ff121c1c549a",
-        "silk_over_copper|147636096|83197759|5d5bb67a-4597-4c6d-a2e3-9eb7a9eb8770|e5bf7d38-8911-46a7-9867-ff121c1c549a",
-        "silk_over_copper|148056716|85600157|5d5bb67a-4597-4c6d-a2e3-9eb7a9eb8770|e5bf7d38-8911-46a7-9867-ff121c1c549a",
-        "silk_over_copper|170695980|85640459|1621666f-c876-41a9-a6b4-26944d343068|2a5027d1-4ca7-4f76-9ab1-ad3c26179be8",
-        "silk_over_copper|171919978|111300199|1621666f-c876-41a9-a6b4-26944d343068|49268382-5db3-41b4-9856-04d0d52ebdb4",
-        "silk_over_copper|172538189|83176018|2db0de16-3c7d-4352-b661-35c277a4aa39|2a5027d1-4ca7-4f76-9ab1-ad3c26179be8",
-        "silk_over_copper|173635882|85120022|2db0de16-3c7d-4352-b661-35c277a4aa39|2a5027d1-4ca7-4f76-9ab1-ad3c26179be8",
-        "silk_over_copper|173788387|113796333|1a8e290b-4bd3-4177-99ac-1bebd85d2c75|49268382-5db3-41b4-9856-04d0d52ebdb4"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -357,7 +348,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DevTermCaseTemp.kicad_pro",
+    "filename": "DevTermCaseTemp_v4.kicad_pro",
     "version": 1
   },
   "net_settings": {
