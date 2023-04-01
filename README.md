@@ -28,6 +28,15 @@ Resource management pins:
 - IO36 for power management
 - IO43 for cartridge detection
 
+## PCB Physical specifications
+
+- EXT board:
+  - size: 89mm (height) x 101mm (width)
+  - thickness: 1mm (source: https://www.ampltd.com/minipcie/)
+- Carts:
+  - size: 61mm (max height inside DevTerm) x 58.42mm (width)
+  - thickness: 1.6mm (source: https://dirtypcbs.com/store/designer/details/12317/1036/cartridge-board-for-commodore-64)
+
 ## Bill of materials
 
 | Item | Qty | Reference(s)                                                                 | Value               | Footprint                                                                    | Datasheet                                                                                  |
@@ -51,7 +60,7 @@ Resource management pins:
 | 17   | 2   | R1, R9                                                                       | 30K                 | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
 | 18   | 1   | R2                                                                           | 680R/1%             | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
 | 19   | 5   | R3, R6, R15, R16, R19                                                        | 100K                | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
-| 20   | 3   | R4, R5, R10                                                                  | 10K                 | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
+| 20   | 4   | R4, R5, R10, R20                                                             | 10K                 | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
 | 21   | 2   | R7, R11                                                                      | 6.8K/1%             | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
 | 22   | 1   | R8                                                                           | 47K                 | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
 | 23   | 4   | R12, R14, R17, R18                                                           | 1K                  | Resistor_SMD:R_0805_2012Metric                                               | ~                                                                                          |
