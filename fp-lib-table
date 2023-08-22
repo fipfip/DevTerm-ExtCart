@@ -6,4 +6,6 @@
   (lib (name "max4619")(type "KiCad")(uri "${KIPRJMOD}/lib/max4619")(options "")(descr ""))
   (lib (name "Hackup_Commodore")(type "KiCad")(uri "${KIPRJMOD}/lib/commodore/Hackup_Commodore.pretty")(options "")(descr ""))
   (lib (name "devterm-ext-outline")(type "KiCad")(uri "${KIPRJMOD}/lib/devterm-ext-outline/devterm-ext-outline.pretty")(options "")(descr ""))
+  (lib (name "EMC2301-1-ACZL-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/EMC2301-1-ACZL-TR")(options "")(descr ""))
+  (lib (name "Accella Graphics")(type "KiCad")(uri "${KIPRJMOD}/lib/Graphics_Accella.pretty")(options "")(descr ""))
 )

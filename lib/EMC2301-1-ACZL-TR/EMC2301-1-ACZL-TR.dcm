@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EMC2301-1-ACZL-TR
+D RPM-Based PWM Fan Speed Controller MSOP8
+K
+F http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en562400
+$ENDCMP
+#
+#End Doc Library

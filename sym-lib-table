@@ -10,4 +10,5 @@
   (lib (name "wch-usb-uart")(type "KiCad")(uri "${KIPRJMOD}/lib/wch/wch-usb-uart.kicad_sym")(options "")(descr ""))
   (lib (name "hackup-commodore")(type "Legacy")(uri "${KIPRJMOD}/lib/commodore/hackup-commodore.lib")(options "")(descr ""))
   (lib (name "devterm_symbols")(type "KiCad")(uri "${KIPRJMOD}/lib/devterm-symbols/devterm_symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "EMC2301-1-ACZL-TR")(type "KiCad")(uri "${KIPRJMOD}/lib/EMC2301-1-ACZL-TR/EMC2301-1-ACZL-TR.kicad_sym")(options "")(descr ""))
 )
