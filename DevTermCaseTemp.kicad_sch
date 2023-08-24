@@ -10273,31 +10273,6 @@
     )
   )
 
-  (symbol (lib_id "power:+5V") (at 321.31 208.28 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid c9211804-cc5f-4528-97aa-66d8f2785257)
-    (property "Reference" "#PWR073" (at 325.12 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "+5V" (at 315.595 208.28 90)
-      (effects (font (size 1.27 1.27)))
-    )
-    (property "Footprint" "" (at 321.31 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 321.31 208.28 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid ae3e4f6e-a2aa-406c-9de7-dc56f5d5e6fe))
-    (instances
-      (project "DevTermCaseTemp"
-        (path "/92520c5a-b04b-416c-be0c-8c1bc8fc98c1"
-          (reference "#PWR073") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "sy6280:SY6280") (at 165.1 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb43075a-e702-4eca-b208-6dcf48b62e8f)
@@ -10322,6 +10297,31 @@
       (project "DevTermCaseTemp"
         (path "/92520c5a-b04b-416c-be0c-8c1bc8fc98c1"
           (reference "U3") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3.3V") (at 321.31 208.28 90) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid cc518919-f8b9-46c8-8303-dcd00d06ca9c)
+    (property "Reference" "#PWR073" (at 325.12 208.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3.3V" (at 318.135 208.28 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 321.31 208.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 321.31 208.28 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 40f61ae7-ca91-46da-8d77-aff86ecb792a))
+    (instances
+      (project "DevTermCaseTemp"
+        (path "/92520c5a-b04b-416c-be0c-8c1bc8fc98c1"
+          (reference "#PWR073") (unit 1)
         )
       )
     )
